@@ -1,0 +1,13 @@
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\bin\Debug\netcoreapp3.1\Odev_01.exe
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\bin\Debug\netcoreapp3.1\Odev_01.deps.json
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\bin\Debug\netcoreapp3.1\Odev_01.runtimeconfig.json
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\bin\Debug\netcoreapp3.1\Odev_01.runtimeconfig.dev.json
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\bin\Debug\netcoreapp3.1\Odev_01.dll
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\bin\Debug\netcoreapp3.1\Odev_01.pdb
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.csprojAssemblyReference.cache
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.AssemblyInfoInputs.cache
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.AssemblyInfo.cs
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.csproj.CoreCompileInputs.cache
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.dll
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.pdb
+D:\Unity Projects\Unity_Learning_Pera\Odevler\Odev_01\Odev_01\obj\Debug\netcoreapp3.1\Odev_01.genruntimeconfig.cache
