@@ -68,7 +68,7 @@ namespace Odev_01
             }
         }
 
-        public void KareAlanHesapla()
+        void KareAlanHesapla()
         {
             // Kare Alanı = kenar*kenar (kenarın karesi)
 
@@ -81,7 +81,7 @@ namespace Odev_01
 
             Console.WriteLine("\nKarenin Alanı: " + sonuc + "\n"); // Ekrana karenin alanını yazdırdık
         }
-        public void DikdortgenAlanHesapla()
+        void DikdortgenAlanHesapla()
         {
             // Dikdörtgen Alanı = kısaKenar * uzunKenar
 
@@ -98,7 +98,7 @@ namespace Odev_01
             Console.WriteLine("\nDikdörtgenin Alanı: " + sonuc + "\n");
 
         }
-        public void CemberAlanHesapla()
+        void CemberAlanHesapla()
         {
             // Çember Alanı: pi * yarıçap
 
